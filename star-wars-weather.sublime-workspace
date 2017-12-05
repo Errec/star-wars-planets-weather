@@ -1,0 +1,1719 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"rg",
+				"rgba\trgba()"
+			],
+			[
+				"inline",
+				"inline-block〔value〕"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"char",
+				"chartData"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"we",
+				"weatherData"
+			],
+			[
+				"rgb",
+				"rgba\trgba()"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pointer",
+				"pointer-events\t(App.vue)"
+			],
+			[
+				"get",
+				"getPlanetName"
+			],
+			[
+				"plan",
+				"planetData"
+			],
+			[
+				"plae",
+				"planetName"
+			],
+			[
+				"planet",
+				"planetData"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"plane",
+				"planetData"
+			],
+			[
+				"hide",
+				"hideLoad"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"trans",
+				"transform\t(Planet.vue)"
+			],
+			[
+				"temp",
+				"temperatures\t(App.vue)"
+			],
+			[
+				"sty",
+				"style\t<style>"
+			],
+			[
+				"scrip",
+				"script\t<script>"
+			],
+			[
+				"rel",
+				"relative\t(App.vue)"
+			],
+			[
+				"web",
+				"webkit-appearance"
+			],
+			[
+				"scr",
+				"script\t<script>"
+			],
+			[
+				"style",
+				"style\t<style>"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right\t(maxw720.sass)"
+			],
+			[
+				"TRANSO",
+				"transform"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"tranted",
+				"translatedText"
+			],
+			[
+				"form",
+				"formTranslate\t(TranslateForm.vue)"
+			],
+			[
+				"Trans",
+				"TranslateOutput"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"func",
+				"function_with_name"
+			],
+			[
+				"quert",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Document"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element Element"
+			],
+			[
+				"fle",
+				"flex-shrink"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"json",
+				"jsonArr"
+			],
+			[
+				"item",
+				"itemSchema"
+			],
+			[
+				"require",
+				"require〔function〕"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"trna",
+				"transparent"
+			],
+			[
+				"opacity",
+				"opacity"
+			],
+			[
+				"_ren",
+				"_renderPlanetData"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"inn",
+				"innerHTML\t(_main.js)"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"modal",
+				"modalHTML"
+			],
+			[
+				"else",
+				"else_if"
+			],
+			[
+				"ovwe",
+				"overflow\t(load.sass)"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"fo",
+				"forwards"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"op",
+				"opacity\topacity()"
+			],
+			[
+				"mat",
+				"matchFlag"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"font-e",
+				"font-weight"
+			],
+			[
+				"fun",
+				"function_without_name"
+			],
+			[
+				"people",
+				"peopleDataLocal\t(sortPeople.js)"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"order",
+				"orderBtn"
+			],
+			[
+				"FLE",
+				"flex-basis"
+			],
+			[
+				"cono",
+				"console_log"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"settim",
+				"setTimeout〔function〕"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"po",
+				"position\t(main.scss)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"resol",
+				"resolved\t(main.js)"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"resu",
+				"resultData"
+			],
+			[
+				"res",
+				"resolved\t(main.js)"
+			],
+			[
+				"peopleN",
+				"peopleName"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"a",
+				"absolute\t(list-ib.sass)"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"peopl",
+				"peopleData"
+			],
+			[
+				"function",
+				"function_without_name"
+			],
+			[
+				"peo",
+				"peopleNumber"
+			],
+			[
+				"error",
+				"errorHandler"
+			],
+			[
+				"funtion",
+				"function_with_name"
+			],
+			[
+				"person",
+				"personNumber"
+			],
+			[
+				"chi",
+				"children\t: HTMLCollection Element"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"su",
+				"submit\t.submit()"
+			],
+			[
+				"inp",
+				"inputBtn"
+			],
+			[
+				"errec",
+				"errecme"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"new",
+				"newTranslate"
+			],
+			[
+				"parent",
+				"parentElement\t: Element Node"
+			],
+			[
+				"esa",
+				"ease-in-out"
+			],
+			[
+				"ele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"src",
+				"src=\"https\t(index.pug)"
+			],
+			[
+				"he",
+				"height\t(main-hero.sass)"
+			],
+			[
+				"tranlate",
+				"translateY"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"thr",
+				"throttle"
+			],
+			[
+				"animation",
+				"animationCount"
+			],
+			[
+				"thro",
+				"throttle〔function〕"
+			],
+			[
+				"functoin",
+				"function_without_name"
+			],
+			[
+				"ski",
+				"skillsDiv"
+			],
+			[
+				"_",
+				"_scrollIntoSkills"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "@media screen and (max-width: 720px)\n  .container\n    overflow-y: scroll\n  .container__chart\n    position: static\n    width: 96vw\n  .planet\n    height: !important\n",
+			"file": "src/styles/media/maxW720px.sass",
+			"file_size": 169,
+			"file_write_time": 131558062581381162,
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 2092,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Planet.vue",
+			"settings":
+			{
+				"buffer_size": 1961,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"indenta",
+				"Change Indent/Tab Size"
+			],
+			[
+				"inden",
+				"Change Indent/Tab Size"
+			],
+			[
+				"indent",
+				"Change Indent/Tab Size"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ---"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"comb",
+				"Run CSScomb"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"format",
+				"Format CSS: Compressed"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 657.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"js_format",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/raniro/Projects/Vue/star-wars-weather",
+		"/home/raniro/Projects/Vue/star-wars-weather/src",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/styles"
+	],
+	"file_history":
+	[
+		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/media/maxW720px.sass",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/Planet.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/Carousel.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/PlanetTable.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/ChartBox.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/App.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/helpers/helpers.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/index.html",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/main.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/helpers/helpersPlugin.js",
+		"/home/raniro/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/assets/arrow.svg",
+		"/home/raniro/Projects/Vue/star-wars-weather/package.json",
+		"/home/raniro/Projects/Vue/star-wars-weather/config.json",
+		"/home/raniro/Projects/Vue/star-wars-weather/temp/app01.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/.gitignore",
+		"/home/raniro/Projects/Vue/star-wars-weather/build/vue-loader.conf.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/postcss.config.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/build/utils.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/build/webpack.base.conf.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/build/postcss.config.js",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/planet.vue",
+		"/home/raniro/Desktop/.planet.sass",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/modules/general.sass",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/base/reset.scss",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/templates/main/conteudo.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/js/main_socios.js",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/templates/main/socios.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/modules/main/conteudo.sass",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/index.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/js/conteudo.js",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/modules/main/socios.sass",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/templates/main/destaques.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/templates/main/informes.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/media/maxw720.sass",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/README.md",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/modules/main/destaques_dropdown.scss",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/conteudo.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/main.scss",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/templates/header/top.pug",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/build/index.html",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/build/conteudo.html",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/templates/header/nav.pug",
+		"/home/raniro/.cache/.fr-LhXAJa/projeto final/quem-somos.html",
+		"/home/raniro/.cache/.fr-noKdIz/projeto final/index.html",
+		"/home/raniro/.cache/.fr-OWvuuk/projeto final/index.html",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/modules/dropdown-menu.sass",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/styles/modules/header/nav.sass",
+		"/home/raniro/Projects/Raro Labs/cbdb/frontend/package.json",
+		"/home/raniro/.npm/_logs/2017-11-12T12_17_02_584Z-debug.log",
+		"/home/raniro/Projects/Vue/vue-workshop/src/components/TranslateOutput.vue",
+		"/home/raniro/Projects/Vue/vue-workshop/src/components/TranslateForm.vue",
+		"/home/raniro/Projects/Vue/vue-workshop/src/App.vue",
+		"/home/raniro/Projects/Vue/vue-workshop/README.md",
+		"/home/raniro/Projects/Misc/vertical-progress-bar/styles/main.scss",
+		"/home/raniro/Projects/Misc/vertical-progress-bar/index.pug",
+		"/home/raniro/Projects/Misc/vertical-progress-bar/js/main.js",
+		"/home/raniro/Projects/Freelance/bimconnect/templates/inscricao.pug",
+		"/home/raniro/Projects/Freelance/bimconnect/index.pug",
+		"/home/raniro/Desktop/jpv4/victoriassecret/index.html",
+		"/home/raniro/Desktop/jpv4/carters/index.html",
+		"/home/raniro/Desktop/jpv4/swarovski/index.html",
+		"/home/raniro/Desktop/jpv4/bebes/index.html",
+		"/home/raniro/Desktop/jpv4/home/index.html",
+		"/home/raniro/Desktop/jpv4/tommyhilfiger/index.html",
+		"/home/raniro/Desktop/jpv4/bebes/CNAME",
+		"/home/raniro/Desktop/jpv4/kipling/index.html",
+		"/home/raniro/Projects/Freelance/bimconnect/templates/sobre.pug",
+		"/home/raniro/Projects/Freelance/bimconnect/templates/programacao.pug",
+		"/home/raniro/Projects/Freelance/bimconnect/templates/participantes.pug",
+		"/home/raniro/Projects/Freelance/bimconnect/templates/data-local.pug",
+		"/home/raniro/Projects/Freelance/bimconnect/styles/main.scss",
+		"/home/raniro/Projects/Freelance/bimconnect/templates/navbar.pug",
+		"/home/raniro/Projects/Freelance/bimconnect/styles/modules/header.sass",
+		"/home/raniro/Projects/Freelance/bimconnect/README.md",
+		"/home/raniro/Desktop/jpv4/vans/index.html",
+		"/home/raniro/Desktop/jpv4/timberland/index.html",
+		"/home/raniro/Desktop/jpv4/oshkosh/index.html",
+		"/home/raniro/Desktop/jpv4/nike/index.html",
+		"/home/raniro/Desktop/jpv4/maquiagens/index.html",
+		"/home/raniro/Desktop/jpv4/michaelkors/index.html",
+		"/home/raniro/Desktop/jpv4/gap/index.html",
+		"/home/raniro/Desktop/jpv4/guess/index.html",
+		"/home/raniro/Desktop/jpv4/harleydavidson/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/victoriassecret/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/vans/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/tommyhilfiger/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/timberland/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/swarovski/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/quicksilver/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/oshkosh/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/oakley/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/nike/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/michaelkors/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/maquiagens/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/kipling/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/harleydavidson/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/guess/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/gap/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/carters/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/home/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/index.pug",
+		"/home/raniro/Projects/Misc/photo-gallery/build/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/README.md",
+		"/home/raniro/Projects/Misc/photo-gallery/styles/main.scss",
+		"/home/raniro/Projects/Misc/photo-gallery/styles/base/gallery-plugin.sass",
+		"/home/raniro/Dropbox/Outlet/Site/jpv2/vans/index.html",
+		"/home/raniro/Dropbox/Outlet/Site/jpv2/gap/index.html",
+		"/home/raniro/Dropbox/Outlet/Site/jpv2/michaelkors/index.html",
+		"/home/raniro/Dropbox/Outlet/Site/jalapenho/home/index.html",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/victoriassecret/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/temp/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/vans/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/tommyhilfiger/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/timberland/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/swarovski/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/quicksilver/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/oshkosh/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/oakley/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/nike/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/michaelkors/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/maquiagens/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/kipling/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/harleydavidson/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/guess/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/gap/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/_sites/carters/CNAME",
+		"/home/raniro/Projects/Misc/photo-gallery/temp/brands.pug"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"%",
+			"96vw",
+			"currentPlane",
+			"re",
+			"myData",
+			"this.renderChart(this.dataSet, this.options)",
+			"datasets",
+			"th.planet-table__",
+			"td ",
+			" tr",
+			" td\n        tr",
+			"      |     ",
+			"60",
+			";",
+			"coord",
+			"function",
+			"this",
+			"e",
+			"10",
+			"15",
+			"translateBackground",
+			"background:",
+			"background",
+			"ackground: ",
+			"background: ur",
+			"background: url",
+			"translateBackground",
+			"9",
+			"8",
+			"12",
+			"300px",
+			"carousel",
+			"ChartBox",
+			"Bar",
+			";",
+			".planet__wrapper",
+			"planet",
+			"</button>",
+			"vueLoaderConfig",
+			".planet__",
+			"background",
+			"mask",
+			".conte",
+			"  flex: ",
+			"li.conteudo__",
+			"i.conteu",
+			"li",
+			"ue-item  Em dest",
+			".conteudo__informes__",
+			".conteudo__infor",
+			".informes__",
+			".informes__item",
+			".informes__info",
+			"          div.informes__info-plus\n            p.informer__info-plus-text +\n            div.informer__info-plus-frame",
+			".flip",
+			"img(src=\"\"",
+			"a.conteudo__social",
+			"div",
+			"    ",
+			"Drop",
+			".dropdown-menu-item",
+			".dropdown-menu",
+			"Drop",
+			".navbar-item",
+			"(href"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/styles/media/maxW720px.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1744,
+								1744
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Planet.vue",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								568
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 228.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "star-wars-weather.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"720",
+				"styles/media/maxw720.sass"
+			],
+			[
+				"inde",
+				"index.pug"
+			],
+			[
+				"conteudo",
+				"templates/main/conteudo.pug"
+			],
+			[
+				"conteu",
+				"conteudo.pug"
+			],
+			[
+				"headertop",
+				"templates/header/top.pug"
+			],
+			[
+				"72",
+				"styles/media/maxw720.sass"
+			],
+			[
+				"modal",
+				"js/modal.js"
+			],
+			[
+				"moda",
+				"styles/modules/modal.sass"
+			],
+			[
+				"planet",
+				"js/planet-list.js"
+			],
+			[
+				"list",
+				"styles/modules/list.sass"
+			],
+			[
+				"in",
+				"index.pug"
+			],
+			[
+				"sass",
+				"styles/modules/list.sass"
+			],
+			[
+				"pug",
+				"templates/section_people-list.pug"
+			],
+			[
+				"main",
+				"styles/main.scss"
+			],
+			[
+				"ski",
+				"styles/assets/main-skills.sass"
+			],
+			[
+				"about",
+				"templates/index/main-about.pug"
+			],
+			[
+				"ab",
+				"styles/assets/main-about.sass"
+			],
+			[
+				"abou",
+				"styles/assets/main-about.sass"
+			],
+			[
+				"todo",
+				"temp/TODO.md"
+			],
+			[
+				"to",
+				"temp/TODO.md"
+			],
+			[
+				"hero",
+				"styles/assets/main-hero.sass"
+			],
+			[
+				"work",
+				"styles/assets/main-work.sass"
+			],
+			[
+				"footer",
+				"js/animate-footer-pin.js"
+			],
+			[
+				"foot",
+				"styles/assets/footer.sass"
+			],
+			[
+				"foo",
+				"styles/assets/footer.sass"
+			],
+			[
+				"abo",
+				"templates/index/main-about.pug"
+			],
+			[
+				"bout",
+				"styles/assets/main-about.sass"
+			],
+			[
+				"7",
+				"styles/media/max-width-720.sass"
+			],
+			[
+				"hea",
+				"styles/assets/header.sass"
+			],
+			[
+				"head",
+				"styles/assets/header.sass"
+			],
+			[
+				"js",
+				"js/main.js"
+			],
+			[
+				"me",
+				"styles/media/max-width-720.sass"
+			],
+			[
+				"21",
+				"styles/media/min-width-721.sass"
+			],
+			[
+				"wor",
+				"styles/assets/main-work.sass"
+			],
+			[
+				"her",
+				"styles/assets/main-hero.sass"
+			],
+			[
+				"min",
+				"styles/media/min-width-721.sass"
+			],
+			[
+				"base",
+				"styles/variables/_base.sass"
+			],
+			[
+				"ind",
+				"index.pug"
+			],
+			[
+				"ma",
+				"styles/main.scss"
+			],
+			[
+				"",
+				"styles/variables/_base.scss"
+			],
+			[
+				"heade",
+				"templates/index/header.pug"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
