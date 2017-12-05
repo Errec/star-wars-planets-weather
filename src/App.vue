@@ -84,4 +84,5 @@
     height: 50vh
 
   @import 'styles/media/maxW720px.sass'
+  @import 'styles/media/W721px_W900px.sass'
 </style>
