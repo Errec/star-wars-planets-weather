@@ -163,4 +163,8 @@
     pointer-events: none
     &:hover
       opacity: 0
+  @media screen and (min-width: 721px) and (max-width: 900px)
+    .carousel
+      position: relative
+      width: 100%
 </style>

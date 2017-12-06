@@ -83,6 +83,14 @@
     width: 40vw
     height: 50vh
 
-  @import 'styles/media/maxW720px.sass'
-  @import 'styles/media/W721px_W900px.sass'
+  // @import 'styles/media/maxW720px.sass'
+  @media screen and (min-width: 721px) and (max-width: 900px)
+    .container
+      position: relative
+      overflow-Y: scroll
+      // display: flex
+      // flex-direction: column
+    .container__chart
+      position: relative
+      width: 100%
 </style>

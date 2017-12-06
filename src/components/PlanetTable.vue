@@ -61,4 +61,11 @@
       padding: 2px 0
       padding-left: 4px
       font-weight: light
+  @media screen and (min-width: 721px) and (max-width: 900px)
+    .planet-table
+      position: relative
+      margin: 0 auto
+      left: 0
+      right: 0
+      width: 100%
 </style>
