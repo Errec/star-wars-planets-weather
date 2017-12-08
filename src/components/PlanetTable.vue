@@ -27,7 +27,6 @@
         tr
           td Population
           td {{planetData.population}}
-
 </template>
 <script>
   export default {

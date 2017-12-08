@@ -167,4 +167,11 @@
     .carousel
       position: relative
       width: 100%
+      margin-bottom: 140px
+    .carousel__planet-title-wrap
+      transform: translate3d(0, 20%, 0);
+    .carousel__btn-next
+      transform: translate3d(-320%, 85%, 0)
+    .carousel__btn-prev
+      transform: translate3d(325%, 85%, 0) rotate(180deg)
 </style>

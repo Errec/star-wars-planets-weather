@@ -85,4 +85,8 @@
       transform: rotateZ(0)
     100%
       transform: rotateZ(-360deg)
+
+  @media screen and (min-width: 721px) and (max-width: 900px)
+    .planet-container
+      transform: translate3d(0, 20%, 0)
 </style>
