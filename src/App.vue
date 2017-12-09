@@ -86,11 +86,15 @@
   // @import 'styles/media/maxW720px.sass'
   @media screen and (min-width: 721px) and (max-width: 900px)
     .container
+      padding: 0 4%
       position: relative
       overflow-Y: scroll
       // display: flex
       // flex-direction: column
     .container__chart
       position: relative
+      left: 0
+      right: 0
+      margin: 0 auto 42px auto
       width: 100%
 </style>
