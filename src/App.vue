@@ -97,4 +97,15 @@
       right: 0
       margin: 0 auto 42px auto
       width: 100%
+  @media screen and (max-width: 720px)
+    .container
+      padding: 0 4%
+      position: relative
+      overflow-y: scroll
+    .container__chart
+      position: relative
+      left: 0
+      right: 0
+      margin: 0 auto 16px auto
+      width: 100%
 </style>

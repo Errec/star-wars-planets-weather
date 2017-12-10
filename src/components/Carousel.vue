@@ -174,4 +174,26 @@
       transform: translate3d(-320%, 85%, 0)
     .carousel__btn-prev
       transform: translate3d(325%, 85%, 0) rotate(180deg)
+  @media screen and (max-width: 720px)
+    .carousel__planet-title-wrap--loading
+      background:
+        size: 20%
+        position: center 66%
+    .carousel
+      position: relative
+      width: 100%
+      margin-bottom: 48px
+    .carousel__planet-title
+      font-size: 3rem
+      text-shadow: none
+      font-weight: 400
+    .carousel__planet-title-wrap
+      transform: translate3d(0, 0, 0);
+    .carousel__btn-next, .carousel__btn-prev
+      width: 42px
+      height: 42px
+    .carousel__btn-next
+      transform: translate3d(-320%, 85%, 0)
+    .carousel__btn-prev
+      transform: translate3d(325%, 85%, 0) rotate(180deg)
 </style>

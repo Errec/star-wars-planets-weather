@@ -40,29 +40,35 @@ export default {
       datasets: [
         {
           label: 'Annual Temperature',
-          borderColor: '#FC2525',
+          borderColor: 'rgba(255, 0,0,0.4)',
           pointBackgroundColor: 'white',
-          borderWidth: 1,
+          borderWidth: 2,
           pointBorderColor: 'white',
           backgroundColor: this.gradient,
           data: this.chartData
         }]
     }, {
+      elements: {
+        point: {
+          radius: 2
+        }
+      },
       responsive: true,
       maintainAspectRatio: false,
       legend: {
-          labels: {
-              fontColor: "white",
-              fontSize: 14
-          },
-          onClick: function (e) {
-              e.stopPropagation();
-          }
+        display: false,
+        labels: {
+            fontColor: "white",
+            fontSize: 14
+        },
+        onClick: function (e) {
+            e.stopPropagation();
+        }
       },
       scales: {
         xAxes: [{
           gridLines: {
-            display: true,
+            display: false,
             color: 'rgba(200, 200, 200, 0.2)',
             lineWidth: 1
           }
@@ -70,11 +76,10 @@ export default {
         yAxes: [{
           scaleLabel: {
             fontColor: 'white',
-            display: true,
             labelString: 'Temperature [ K ]'
           },
           gridLines: {
-            display: true,
+            display: false,
             color: 'rgba(200, 200, 200, 0.2)',
             lineWidth: 1
           }

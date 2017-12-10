@@ -89,4 +89,9 @@
   @media screen and (min-width: 721px) and (max-width: 900px)
     .planet-container
       transform: translate3d(0, 20%, 0)
+  @media screen and (max-width: 720px)
+    .planet
+      transform: scale(0.7)
+    .planet-container
+      transform: translate3d(0, 20%, 0)
 </style>

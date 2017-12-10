@@ -67,4 +67,11 @@
       left: 0
       right: 0
       width: 100%
+  @media screen and (max-width: 720px)
+    .planet-table
+      position: relative
+      margin: 0 auto
+      left: 0
+      right: 0
+      width: 100%
 </style>
