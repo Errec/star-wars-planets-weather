@@ -12,7 +12,7 @@ export default {
   watch: {
     chartData () {
       if (this.$data._chart) {
-        this.$data._chart.destroy();
+        this.$data._chart.destroy()
       }
       this.renderChart({
         labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
@@ -62,7 +62,7 @@ export default {
             fontSize: 14
         },
         onClick: function (e) {
-            e.stopPropagation();
+            e.stopPropagation()
         }
       },
       scales: {

@@ -40,7 +40,7 @@
     methods: {
       // REFACTORATE: things are getting hotter in Tatooine! make this 2 big guys(next() and previous() methods) into one big guy
       previous: _.throttle(
-        function() {
+        function () {
           this.loadingPlanet = true // Add loading gif
           if (this.currentPlanet > this.MAX_PLANETS - 1) { // Stop extra calls
             return
@@ -60,7 +60,7 @@
           }
         }, 2000),
       next: _.throttle(
-        function() {
+        function () {
           this.loadingPlanet = true // Add loading gif
           if (this.currentPlanet < 2) { // Stop extra calls
             return

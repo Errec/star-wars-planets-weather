@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sha",
+				"text-shadow"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
 				"font",
 				"font-weight"
 			],
@@ -54,10 +62,6 @@
 			[
 				"z",
 				"z-index"
-			],
-			[
-				"re",
-				"return"
 			],
 			[
 				"pointer",
@@ -510,10 +514,6 @@
 			[
 				"_",
 				"_scrollIntoSkills"
-			],
-			[
-				"getE",
-				"getElementById\t( elementId: DOMString ): Element Document"
 			]
 		]
 	},
@@ -658,20 +658,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/raniro/Projects/Vue/star-wars-weather",
-		"/home/raniro/Projects/Vue/star-wars-weather/src",
-		"/home/raniro/Projects/Vue/star-wars-weather/static"
+		"/home/raniro/Projects/Vue/star-wars-weather"
 	],
 	"file_history":
 	[
-		"/home/raniro/Projects/Vue/star-wars-weather/src/components/Planet.vue",
-		"/home/raniro/Projects/Vue/star-wars-weather/src/components/Carousel.vue",
-		"/home/raniro/Projects/Vue/star-wars-weather/src/components/PlanetTable.vue",
-		"/home/raniro/.ssh/id_rsa.pub",
 		"/home/raniro/Projects/Vue/star-wars-weather/src/App.vue",
-		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/media/W721px_W900px.sass",
-		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/media/maxW720px.sass",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/Carousel.vue",
 		"/home/raniro/Projects/Vue/star-wars-weather/src/components/ChartBox.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/Planet.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/components/PlanetTable.vue",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/media/maxW720px.sass",
+		"/home/raniro/.ssh/id_rsa.pub",
+		"/home/raniro/Projects/Vue/star-wars-weather/src/styles/media/W721px_W900px.sass",
 		"/home/raniro/Projects/Vue/star-wars-weather/src/helpers/helpers.js",
 		"/home/raniro/Projects/Vue/star-wars-weather/index.html",
 		"/home/raniro/Projects/Vue/star-wars-weather/src/main.js",
