@@ -2,6 +2,8 @@
 
 > Star Wars themed weather APP using SWAPI and Weather API
 
+http://starwarsweather.surge.sh/
+
 ## Build Setup
 
 ``` bash
